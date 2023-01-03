@@ -1,0 +1,76 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Logo.unity
+    guid: b2b33a8b2afe8814f92bf81334ee6d7e
+  - enabled: 0
+    path: Assets/Scenes/Version.unity
+    guid: 0eae5d9a48d070b4c881de459fd9fba9
+  - enabled: 1
+    path: Assets/Scenes/MainMenu.unity
+    guid: f7bd04c0b8daf16469f013fb44318de8
+  - enabled: 1
+    path: Assets/Scenes/Transition1.unity
+    guid: 711b2dc62981a4c45a0530d869a3f467
+  - enabled: 1
+    path: Assets/Scenes/LesNiveaux.unity
+    guid: e1d97308602c5d34bbb08dac29019818
+  - enabled: 1
+    path: Assets/Scenes/Transition2.unity
+    guid: e11668d9d8874594880efc83c7676636
+  - enabled: 1
+    path: Assets/Scenes/ChessPieces.unity
+    guid: 87a6c22c542c95348a8991b41911d6a5
+  - enabled: 1
+    path: Assets/Scenes/HiddenObj.unity
+    guid: e4a9ffc50ad232f4fba90faf265d2470
+  - enabled: 1
+    path: Assets/Scenes/Timelost.unity
+    guid: 7ee8c40024cbda24591ab04d9965b399
+  - enabled: 1
+    path: Assets/Scenes/WonHiddenObj.unity
+    guid: 10a99c9d112cfa44aa5458246f11743a
+  - enabled: 1
+    path: Assets/Scenes/Drag&Drop.unity
+    guid: da85729cedef587418329d25bddab3b0
+  - enabled: 1
+    path: Assets/Scenes/Transition3.unity
+    guid: bbdd19357fd956341a85a3da227866db
+  - enabled: 1
+    path: Assets/Scenes/Placement.unity
+    guid: 12a5e6144e74b754096e78ba23f8abc4
+  - enabled: 1
+    path: Assets/Scenes/Timelost 1.unity
+    guid: 80744ea8366d4fd44bd49eefae2049bb
+  - enabled: 1
+    path: Assets/Scenes/Transition4.unity
+    guid: fb6f9e31445fa0a48a95a15f4000cd97
+  - enabled: 1
+    path: Assets/Scenes/ChoisirPiece.unity
+    guid: 7891044dc0e06fd4cb246da0f5ac8d3c
+  - enabled: 1
+    path: Assets/Scenes/Pion.unity
+    guid: e2c108c76076bee479ac2956571c810e
+  - enabled: 1
+    path: Assets/Scenes/Tour.unity
+    guid: a80e7cedf3de10c4ba69c0edc6724480
+  - enabled: 1
+    path: Assets/Scenes/Cavalier.unity
+    guid: e487b30f98f0bcb4496c16b0e2addff0
+  - enabled: 1
+    path: Assets/Scenes/Fou.unity
+    guid: 272486b4decf58b4694b9cdd76a54ac8
+  - enabled: 1
+    path: Assets/Scenes/Dame.unity
+    guid: a5412e2fb93976a4aa13446bfe5efc27
+  - enabled: 1
+    path: Assets/Scenes/Roi.unity
+    guid: 9d0d13ecff6045d4eb2e745afb613844
+  - enabled: 1
+    path: Assets/Scenes/Chess.unity
+    guid: f6f8071b5a523ec4193680342f3ed7cd

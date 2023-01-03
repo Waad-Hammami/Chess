@@ -1,0 +1,24 @@
+Transition 1 :
+1/Bienvenu ! C'est Dodo le magicien ... Je vais vous aidez à jouer de l'échec 
+2/Commencez par choisir votre niveau de l'un des niveaux suivants :
+3/Débutant : Apprendre à identifier les piéces et les placés sur le plateau
+4/Intermidiére : Apprendre à déplacer les piéces
+5/Avancée : Jouer contre un(e) ami(e) 
+
+Transition 2 :
+1/Hmm..Allez mon ami(e) ! Apprenant les échecs !
+2/Ooops... Oh là là ! J'ai oublier où j'ai mis mes piéces déchec !
+3/Aidez moi à les trouver 
+
+
+Transition 3 :
+1/Bravo ! Vouz aves trouvez toutes les piéces.
+2/Maintenant, nous allonz les placez sur le plateau
+3/ Pour placer une piéce il suffit de cliquez dessous et la tirez sur la place destinée
+
+
+Transition 4 :
+1/Au niveau intermidiare, nous allonz apprendre à déplacer les piéces.
+2/Choisit une piéce !
+
+
